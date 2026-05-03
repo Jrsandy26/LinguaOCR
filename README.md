@@ -54,7 +54,7 @@ The project follows a modern decoupled architecture:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/LinguaOCR.git
+git clone https://github.com/Jrsandy26/LinguaOCR.git
 cd LinguaOCR
 ```
 
@@ -87,6 +87,14 @@ npm run dev
 The application will be available at `http://localhost:5173`.
 
 ---
+
+### or push an existing repository from the command line
+
+git remote add origin https://github.com/Jrsandy26/LinguaOCR.git
+git branch -M main
+git push -u origin main
+
+
 
 ## 📦 Requirements
 
