@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+*.docx
+Translated_*.docx
+temp_img_*.jpg
+sample.pdf
+pg*.md
+frontendplann.md
